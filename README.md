@@ -1,6 +1,6 @@
 HACKBIO INTERNSHIP (STAGE 0 TASK)
 
-TOPIC: PROTEINS AS DRUG TARGETS IN CANCER DRUG DISCOVERY
+PROTEINS AS DRUG TARGETS IN CANCER DRUG DISCOVERY
 
 Proteins are important drug targets due to their vital involvement in virtually all biological processes, including those related to disease development and progression. They act as the primary effectors of cellular functions, and their dysfunction is often implicated in diseases, making them ideal targets for therapeutic intervention. As enzymes, receptors, ion channels, or structural components, proteins interact with small molecules or other macromolecules to regulate various cellular activities. By targeting specific proteins with drugs, it is possible to modulate their activity, thereby influencing the disease process. For instance, in the case of enzyme inhibition, a drug can bind to an enzyme's active site, reducing its activity and mitigating the disease's effects (Patel et al., 2021).
 
